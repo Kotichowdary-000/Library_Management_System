@@ -16,7 +16,7 @@ public class Library_Management_System {
 			System.out.println("2. Display All Books");
 			System.out.println("3. Search Book by title");
 			System.out.println("4. Borrow Book");
-			System.out.println("5. Return Book");
+			System.out.println("5. Return Book to Library");
 			System.out.println("6. Exit");
 			System.out.print("Enter your Choice: ");
 
